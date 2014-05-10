@@ -1,0 +1,23 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3523]
+    Renderer: NVIDIA GeForce GTX 660M
+    Vendor:   NVIDIA
+    VRAM:     1985 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jay\Documents\Unity Games\SquareShooter\Square Shooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jay\Documents\Unity Games\SquareShooter\Square Shooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jay\Documents\Unity Games\SquareShooter\Square Shooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jay\Documents\Unity Games\SquareShooter\Square Shooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.119 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.674378 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 308.
+Total: 1.480040 ms (FindLiveObjects: 0.036776 ms CreateObjectMapping: 0.018815 ms MarkObjects: 0.207402 ms  DeleteObjects: 0.044901 ms)
+

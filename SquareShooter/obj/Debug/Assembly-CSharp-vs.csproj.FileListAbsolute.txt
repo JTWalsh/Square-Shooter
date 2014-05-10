@@ -1,0 +1,11 @@
+C:\Users\Jay\Documents\Unity Games\SquareShooter\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Jay\Documents\Unity Games\SquareShooter\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Jay\Documents\Unity Games\SquareShooter\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Jay\Documents\Unity Games\SquareShooter\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Jay\Documents\Unity Games\SquareShooter\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Jay\Documents\Unity Games\SquareShooter\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Jay\Documents\Unity Games\SquareShooter\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Jay\Documents\Unity Games\SquareShooter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Jay\Documents\Unity Games\SquareShooter\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Jay\Documents\Unity Games\SquareShooter\obj\Debug\Assembly-CSharp.dll
+C:\Users\Jay\Documents\Unity Games\SquareShooter\obj\Debug\Assembly-CSharp.pdb
