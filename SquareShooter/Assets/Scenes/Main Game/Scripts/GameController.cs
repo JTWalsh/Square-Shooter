@@ -28,7 +28,8 @@ public class GameController : MonoBehaviour
         {
             if (enemyCount % 5 == 0 && enemyCount != 0)
             {
-                spawnWait -= 0.025f;
+                spawnWait -= 0.05f;
+                Debug.Log("spawn time is now: " + spawnWait);
             }
 
             Vector3 spawnLocation = new Vector3(Random.Range(-3, 3), Random.Range(-3, 3), 0);
